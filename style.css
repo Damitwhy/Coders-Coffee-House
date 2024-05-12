@@ -292,7 +292,7 @@ label {
     padding: 0.5rem;
     margin: 1.5rem 0 0 15px;
     border: 1px solid grey;
-    overflow: scroll;
+    overflow: auto;
 }
 
 /* map */
